@@ -6,7 +6,7 @@ export default class About extends Component {
     return (
         <Accordion>
         <Accordion.Item eventKey="0">
-          <Accordion.Header>Misyonumuz</Accordion.Header>
+          <Accordion.Header>About Us</Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -30,7 +30,7 @@ export default class About extends Component {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>Vizyonumuz</Accordion.Header>
+          <Accordion.Header>Our Missions</Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
